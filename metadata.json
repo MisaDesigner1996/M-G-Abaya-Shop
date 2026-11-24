@@ -1,0 +1,8 @@
+{
+  "name": "Remix MG Abayas | Modest Fashion \u0026 Everyday Abayas Bahrain",
+  "description": "Shop everyday abayas starting from BHD 2.500, jalabiyas, kaftans, head scarves, prayer wear, and luxury evening abayas across 20 branches in Bahrain.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
